@@ -10,3 +10,6 @@
 [submodule "Weather_prediction_Australia"]
 	path = Weather_prediction_Australia
 	url = https://github.com/Gawasinspire/Weather_prediction_Australia
+[submodule "simulation_engineering_project"]
+	path = simulation_engineering_project
+	url = https://github.com/Gawasinspire/simulation_engineering_project
