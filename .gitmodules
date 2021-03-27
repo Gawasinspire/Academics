@@ -1,3 +1,6 @@
 [submodule "fassade_designs"]
 	path = fassade_designs
 	url = https://github.com/Gawasinspire/fassade_designs
+[submodule "StriveSchool"]
+	path = StriveSchool
+	url = https://github.com/Gawasinspire/StriveSchool
