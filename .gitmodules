@@ -4,3 +4,6 @@
 [submodule "StriveSchool"]
 	path = StriveSchool
 	url = https://github.com/Gawasinspire/StriveSchool
+[submodule "SeriousGame"]
+	path = SeriousGame
+	url = https://github.com/Gawasinspire/SeriousGame
